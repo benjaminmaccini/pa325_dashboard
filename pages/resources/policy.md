@@ -1,4 +1,6 @@
-# How to do policy
+---
+title: How to do policy
+---
 
 This section is meant to describe the meta-process for how to do analysis with the end goal of creating
 policy recommendations. Thoughts are my own, but inspired by the direction of the program advisors.
