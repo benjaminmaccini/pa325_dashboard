@@ -96,6 +96,7 @@ Notes:
 The dataset contains the following tables
 
 1. The OASIS export (shortened for brevity -- call `DESCRIBE oasis;` for details)
+
 |  column_name  | column_type | null | key | default | extra |
 |---------------|-------------|------|-----|---------|-------|
 | Date / Time   | VARCHAR     | YES  |     |         |       |
@@ -145,6 +146,7 @@ The dataset contains the following tables
 | SCONC650      | BIGINT      | YES  |     |         |       |
 
 2. Events
+
 | column_name  | column_type | null | key | default | extra |
 |--------------|-------------|------|-----|---------|-------|
 | event_date   | TIMESTAMP   | YES  |     |         |       |
